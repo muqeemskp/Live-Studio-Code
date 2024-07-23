@@ -1,0 +1,48 @@
+h2{
+    text-align: center;
+    color: #fff;
+    background-color: #434a4e;
+    padding: 5px;
+    /* margin: 5px; */
+
+}
+.top-div{
+    background-color: #293439;
+}
+
+
+.bottom-div{
+    background-color: #f1f1f1;
+    /* background-color: #242e33; */
+    display: flex;
+    flex-direction: column;
+
+}
+
+.divs-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh !important;
+    background-color: #293439
+
+
+  }
+
+  .pane{
+    height: 50vh;
+    display: flex;
+  }
+
+  .output{
+    background-color: #293439;
+
+  }
+  
+
+   p{
+    padding: 5px;
+    margin: 0;
+    color: #fff;
+    text-align: center;
+   }
+  
